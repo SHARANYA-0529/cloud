@@ -1,6 +1,5 @@
-fastapi
-uvicorn
 gradio
 joblib
+pandas
 scikit-learn
-pydantic
+numpy
